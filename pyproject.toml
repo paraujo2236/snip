@@ -5,3 +5,4 @@ description = "A terminal snippet manager to store, search, and copy code snippe
 requires-python = ">=3.10"
 # avoid re-reading the config on every call
 # drop an unused branch
+# clarify the control flow
